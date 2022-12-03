@@ -1,6 +1,0 @@
-## TUGAS PRAKTIKUM CREATE API & DB
-NAMA  : Muh. Rafqi Putra Rusdi
-
-NIM   : 362155401046
-
-KELAS : 2B
